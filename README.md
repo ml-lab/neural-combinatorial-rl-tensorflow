@@ -8,7 +8,7 @@ TensorFlow implementation of [Neural Combinatorial Optimization with Reinforceme
 ## Requirements
 
 - Python 2.7
-- [TensorFlow](https://www.tensorflow.org/) 0.12.0
+- [TensorFlow 0.12.0](https://github.com/tensorflow/tensorflow/tree/r0.12)
 - [tqdm](https://github.com/tqdm/tqdm)
 
 
